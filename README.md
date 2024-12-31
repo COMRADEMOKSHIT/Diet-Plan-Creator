@@ -1,4 +1,4 @@
-It creates a Diet plane  according these following points
+It creates a Diet plane  according to your
 1. Gender
 2. Weight
 4. Height
